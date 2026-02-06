@@ -12,4 +12,4 @@ Atualmente sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 Vamos nos conectar?
-- [Meu LinkedIn](https://www.linkedin.com/in/andr%C3%A9-cunha-correa-93b4a8398/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cunha-correa-93b4a8398/)
