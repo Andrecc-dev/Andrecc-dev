@@ -1,15 +1,84 @@
-# Olá, eu sou o André! 👋
+# 👋 Olá, eu sou André Cunha Correa
 
-Atualmente sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no SENAI. Estou construindo minha base em programação e compartilhando meus projetos por aqui.
+🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI
 
-### 🚀 Sobre mim
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas (Turma HTC DDS 27).
-- 🐍 Focado em **Python** e Lógica de Programação.
-- 💻 No momento, aprendendo sobre versionamento com Git e GitHub.
+💻 Desenvolvedor em formação com foco em desenvolvimento web, automação e criação de soluções para problemas reais.
 
-### 🛠 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+🚀 Atualmente construindo projetos próprios e buscando minha primeira oportunidade de estágio na área de tecnologia.
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-cunha-correa-93b4a8398/)
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+* Python
+* Java
+* JavaScript
+* HTML
+* CSS
+
+### Banco de Dados
+
+* SQLite
+* MySQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* Flask
+* Render
+* VS Code
+
+---
+
+## 📌 Principais Projetos
+
+### 🎓 SchoolPassReader
+
+Sistema de gestão de fluxo escolar desenvolvido para automatizar o controle de presença, entrada e saída de alunos.
+
+**Tecnologias:** Python, Flask, SQLite, HTML e CSS
+
+🔗 https://github.com/Andrecc-dev/SchoolPassReader
+
+---
+
+### 🛒 Dropzi
+
+Plataforma de afiliados desenvolvida para divulgação de produtos da Shopee.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+🔗 https://github.com/Andrecc-dev/Dropzi
+
+---
+
+## 🏆 Experiências e Participações
+
+* Participação no Conexão Ciências
+* Participação na ESX
+* Desenvolvimento de projetos próprios
+* Networking com profissionais da área de tecnologia
+
+---
+
+## 🎯 Objetivos
+
+Atualmente busco:
+
+* Oportunidade de estágio em tecnologia
+* Aprimoramento em desenvolvimento web
+* Construção de soluções reais através de software
+* Evolução constante como desenvolvedor
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn:
+[www.linkedin.com/in/andré-cunha-correa-93b4a8398](http://www.linkedin.com/in/andré-cunha-correa-93b4a8398)
+
+📧 E-mail:
+[andrecunha.correa@gmail.com](mailto:andrecunha.correa@gmail.com)
